@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard1.1</TargetFramework>
+    <AssemblyName>Launchpad.Net</AssemblyName>
+    <RootNamespace>Launchpad</RootNamespace>
+    <RuntimeIdentifier>win-any</RuntimeIdentifier>
+  </PropertyGroup>
+</Project>
